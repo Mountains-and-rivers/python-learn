@@ -1,0 +1,4 @@
+2018-08-03 15:04:39,758 - ERROR - log四大组件.py[:80] - error message
+2018-08-03 15:04:39,758 - CRITICAL - log四大组件.py[:81] - critical message
+2018-08-03 15:06:07,737 - ERROR - log四大组件.py[:80] - error message
+2018-08-03 15:06:07,737 - CRITICAL - log四大组件.py[:81] - critical message
